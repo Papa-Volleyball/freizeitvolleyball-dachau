@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://papa-volleyball.github.io/freizeitvolleyball-dachau/sitemap.xml
